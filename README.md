@@ -4,4 +4,4 @@ This is a general exercise file about what we've learnt in Pandas so far. I've t
 
 We can use .drop() method to remove some columns or row from dataset. We should add 'inplace=True' expression to affect main dataset from this change. Also I've created some new functions and use them with conditions and loops altogether.
 
-That's all for now :) . I couldn't add my Excel files because of the privacy of data and you can see all the dataset in Excel. I will be adding my project files as well as my other files about unsupervised and supervised learning but I could mention about them in job interview too :)
+That's all for now :) . I couldn't add my Excel files because of the privacy of data and you can see all the dataset in Excel. I will be adding my project files as well as my other files about unsupervised and supervised learning but I could mention about all of these (Excel,ML and project) at job interview too :) 
